@@ -39,7 +39,7 @@
       ]
     },
     "duplicates": {
-      "phash_dist": 12
+      "phash_dist": 10
     },
     "label_format": {
       "overflow_tol": 0.002,
